@@ -1,0 +1,38 @@
+#cat1 {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 5px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150;
+}
+#cat2 {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 5px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150;
+}
+#cat3 {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 5px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150;
+}
+#cat4 {
+    border-style: solid;
+    border-width: 5px;
+    border-color: goldenrod;
+    width: 300px;
+    height: 300px;
+}
+#cat5 {
+    border-style: solid;
+    border-width: 5px;
+    border-color: goldenrod;
+    width: 300px;
+    height: 300px;
+}
